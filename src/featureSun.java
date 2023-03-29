@@ -1,10 +1,10 @@
 public class featureSun {
 
 
-    temperature;
+    String temperature;
 
-    radius;
+   String radius;
 
-    color;
+  String  color;
 }
 
